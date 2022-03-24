@@ -1,0 +1,240 @@
+22-Mar-2022 20:50:14.589 WARNING [main] org.apache.tomcat.util.digester.Digester.endElement No rules found matching [Server/Service/connector]
+22-Mar-2022 20:50:14.927 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.54
+22-Mar-2022 20:50:14.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2021 13:51:49 UTC
+22-Mar-2022 20:50:14.929 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.54.0
+22-Mar-2022 20:50:14.929 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Mar-2022 20:50:14.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+22-Mar-2022 20:50:14.950 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+22-Mar-2022 20:50:14.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\marti\.jdks\openjdk-15.0.2
+22-Mar-2022 20:50:14.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            15.0.2+7-27
+22-Mar-2022 20:50:14.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Mar-2022 20:50:14.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 20:50:14.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 20:50:14.964 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Mar-2022 20:50:14.964 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Mar-2022 20:50:14.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Mar-2022 20:50:14.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Mar-2022 20:50:14.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Mar-2022 20:50:14.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\conf\logging.properties
+22-Mar-2022 20:50:14.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Mar-2022 20:50:14.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+22-Mar-2022 20:50:14.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Mar-2022 20:50:14.970 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+22-Mar-2022 20:50:14.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 20:50:14.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 20:50:14.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\temp
+22-Mar-2022 20:50:15.050 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+22-Mar-2022 20:50:15.051 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+22-Mar-2022 20:50:15.054 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+22-Mar-2022 20:50:15.080 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+22-Mar-2022 20:50:16.174 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Mar-2022 20:50:16.345 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2846] milliseconds
+22-Mar-2022 20:50:16.473 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Mar-2022 20:50:16.473 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.54]
+22-Mar-2022 20:50:16.539 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\axis2-1.8.0]
+22-Mar-2022 20:50:17.391 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [153] milliseconds.
+22-Mar-2022 20:50:17.609 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\axis2-1.8.0] has finished in [1 070] ms
+22-Mar-2022 20:50:17.611 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\docs]
+22-Mar-2022 20:50:17.696 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\docs] has finished in [84] ms
+22-Mar-2022 20:50:17.696 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\examples]
+22-Mar-2022 20:50:18.737 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\examples] has finished in [1 041] ms
+22-Mar-2022 20:50:18.738 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\host-manager]
+22-Mar-2022 20:50:18.851 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\host-manager] has finished in [113] ms
+22-Mar-2022 20:50:18.852 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\manager]
+22-Mar-2022 20:50:18.901 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\manager] has finished in [49] ms
+22-Mar-2022 20:50:18.901 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\ROOT]
+22-Mar-2022 20:50:18.934 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\ROOT] has finished in [33] ms
+22-Mar-2022 20:50:18.938 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Mar-2022 20:50:19.058 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2712] milliseconds
+22-Mar-2022 20:53:49.909 WARNING [main] org.apache.tomcat.util.digester.Digester.endElement No rules found matching [Server/Service/connector]
+22-Mar-2022 20:53:49.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.54
+22-Mar-2022 20:53:49.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2021 13:51:49 UTC
+22-Mar-2022 20:53:49.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.54.0
+22-Mar-2022 20:53:49.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Mar-2022 20:53:49.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+22-Mar-2022 20:53:49.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+22-Mar-2022 20:53:49.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\marti\.jdks\openjdk-15.0.2
+22-Mar-2022 20:53:49.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            15.0.2+7-27
+22-Mar-2022 20:53:49.970 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Mar-2022 20:53:49.970 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 20:53:49.970 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 20:53:49.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Mar-2022 20:53:49.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Mar-2022 20:53:49.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Mar-2022 20:53:49.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Mar-2022 20:53:49.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Mar-2022 20:53:49.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\conf\logging.properties
+22-Mar-2022 20:53:49.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Mar-2022 20:53:49.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+22-Mar-2022 20:53:49.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Mar-2022 20:53:49.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+22-Mar-2022 20:53:49.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 20:53:49.984 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 20:53:49.985 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\temp
+22-Mar-2022 20:53:49.990 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+22-Mar-2022 20:53:49.990 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+22-Mar-2022 20:53:49.991 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+22-Mar-2022 20:53:50.001 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+22-Mar-2022 20:53:50.364 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Mar-2022 20:53:50.397 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [701] milliseconds
+22-Mar-2022 20:53:50.456 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Mar-2022 20:53:50.456 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.54]
+22-Mar-2022 20:53:50.466 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\axis]
+22-Mar-2022 20:53:51.618 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2022 20:53:52.190 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\axis] has finished in [1 723] ms
+22-Mar-2022 20:53:52.190 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\docs]
+22-Mar-2022 20:53:52.227 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\docs] has finished in [37] ms
+22-Mar-2022 20:53:52.228 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\examples]
+22-Mar-2022 20:53:52.636 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\examples] has finished in [409] ms
+22-Mar-2022 20:53:52.639 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\host-manager]
+22-Mar-2022 20:53:52.696 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\host-manager] has finished in [57] ms
+22-Mar-2022 20:53:52.697 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\manager]
+22-Mar-2022 20:53:52.766 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\manager] has finished in [69] ms
+22-Mar-2022 20:53:52.767 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\ROOT]
+22-Mar-2022 20:53:52.804 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\ROOT] has finished in [37] ms
+22-Mar-2022 20:53:52.812 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Mar-2022 20:53:52.875 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2477] milliseconds
+22-Mar-2022 23:12:54.122 WARNING [main] org.apache.tomcat.util.digester.Digester.endElement No rules found matching [Server/Service/connector]
+22-Mar-2022 23:12:54.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.54
+22-Mar-2022 23:12:54.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2021 13:51:49 UTC
+22-Mar-2022 23:12:54.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.54.0
+22-Mar-2022 23:12:54.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Mar-2022 23:12:54.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+22-Mar-2022 23:12:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+22-Mar-2022 23:12:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\marti\.jdks\openjdk-15.0.2
+22-Mar-2022 23:12:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            15.0.2+7-27
+22-Mar-2022 23:12:54.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Mar-2022 23:12:54.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:12:54.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:12:54.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Mar-2022 23:12:54.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Mar-2022 23:12:54.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Mar-2022 23:12:54.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Mar-2022 23:12:54.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Mar-2022 23:12:54.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\conf\logging.properties
+22-Mar-2022 23:12:54.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Mar-2022 23:12:54.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+22-Mar-2022 23:12:54.183 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Mar-2022 23:12:54.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+22-Mar-2022 23:12:54.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:12:54.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:12:54.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\temp
+22-Mar-2022 23:12:54.192 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+22-Mar-2022 23:12:54.193 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+22-Mar-2022 23:12:54.194 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+22-Mar-2022 23:12:54.200 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+22-Mar-2022 23:12:54.614 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Mar-2022 23:12:54.647 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [725] milliseconds
+22-Mar-2022 23:12:54.707 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Mar-2022 23:12:54.708 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.54]
+22-Mar-2022 23:12:54.719 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\axis]
+22-Mar-2022 23:12:55.606 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2022 23:12:56.106 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\axis] has finished in [1 388] ms
+22-Mar-2022 23:12:56.107 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\docs]
+22-Mar-2022 23:12:56.158 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\docs] has finished in [51] ms
+22-Mar-2022 23:12:56.159 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\examples]
+22-Mar-2022 23:12:56.569 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\examples] has finished in [410] ms
+22-Mar-2022 23:12:56.570 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\host-manager]
+22-Mar-2022 23:12:56.620 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\host-manager] has finished in [49] ms
+22-Mar-2022 23:12:56.620 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\manager]
+22-Mar-2022 23:12:56.672 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\manager] has finished in [52] ms
+22-Mar-2022 23:12:56.673 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\ROOT]
+22-Mar-2022 23:12:56.709 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\ROOT] has finished in [35] ms
+22-Mar-2022 23:12:56.714 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Mar-2022 23:12:56.775 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2127] milliseconds
+22-Mar-2022 23:48:56.246 WARNING [main] org.apache.tomcat.util.digester.Digester.endElement No rules found matching [Server/Service/connector]
+22-Mar-2022 23:48:56.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.54
+22-Mar-2022 23:48:56.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2021 13:51:49 UTC
+22-Mar-2022 23:48:56.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.54.0
+22-Mar-2022 23:48:56.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Mar-2022 23:48:56.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+22-Mar-2022 23:48:56.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+22-Mar-2022 23:48:56.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\marti\.jdks\openjdk-15.0.2
+22-Mar-2022 23:48:56.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            15.0.2+7-27
+22-Mar-2022 23:48:56.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Mar-2022 23:48:56.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:48:56.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:48:56.301 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Mar-2022 23:48:56.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Mar-2022 23:48:56.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Mar-2022 23:48:56.303 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Mar-2022 23:48:56.304 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Mar-2022 23:48:56.304 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\conf\logging.properties
+22-Mar-2022 23:48:56.305 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Mar-2022 23:48:56.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+22-Mar-2022 23:48:56.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Mar-2022 23:48:56.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+22-Mar-2022 23:48:56.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:48:56.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:48:56.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\temp
+22-Mar-2022 23:48:56.318 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+22-Mar-2022 23:48:56.318 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+22-Mar-2022 23:48:56.319 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+22-Mar-2022 23:48:56.326 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+22-Mar-2022 23:48:56.698 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Mar-2022 23:48:56.732 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [714] milliseconds
+22-Mar-2022 23:48:56.785 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Mar-2022 23:48:56.785 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.54]
+22-Mar-2022 23:48:56.795 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\axis]
+22-Mar-2022 23:48:57.679 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2022 23:48:58.162 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\axis] has finished in [1 366] ms
+22-Mar-2022 23:48:58.162 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\docs]
+22-Mar-2022 23:48:58.206 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\docs] has finished in [44] ms
+22-Mar-2022 23:48:58.207 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\examples]
+22-Mar-2022 23:48:58.639 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\examples] has finished in [431] ms
+22-Mar-2022 23:48:58.639 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\host-manager]
+22-Mar-2022 23:48:58.696 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\host-manager] has finished in [57] ms
+22-Mar-2022 23:48:58.696 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\manager]
+22-Mar-2022 23:48:58.751 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\manager] has finished in [55] ms
+22-Mar-2022 23:48:58.752 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\ROOT]
+22-Mar-2022 23:48:58.787 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\ROOT] has finished in [35] ms
+22-Mar-2022 23:48:58.793 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Mar-2022 23:48:58.850 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2117] milliseconds
+22-Mar-2022 23:55:44.153 WARNING [main] org.apache.tomcat.util.digester.Digester.endElement No rules found matching [Server/Service/connector]
+22-Mar-2022 23:55:44.205 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.54
+22-Mar-2022 23:55:44.205 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2021 13:51:49 UTC
+22-Mar-2022 23:55:44.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.54.0
+22-Mar-2022 23:55:44.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Mar-2022 23:55:44.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+22-Mar-2022 23:55:44.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+22-Mar-2022 23:55:44.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\marti\.jdks\openjdk-15.0.2
+22-Mar-2022 23:55:44.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            15.0.2+7-27
+22-Mar-2022 23:55:44.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Mar-2022 23:55:44.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:55:44.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:55:44.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Mar-2022 23:55:44.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Mar-2022 23:55:44.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Mar-2022 23:55:44.210 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Mar-2022 23:55:44.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Mar-2022 23:55:44.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\conf\logging.properties
+22-Mar-2022 23:55:44.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Mar-2022 23:55:44.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+22-Mar-2022 23:55:44.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Mar-2022 23:55:44.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+22-Mar-2022 23:55:44.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:55:44.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54
+22-Mar-2022 23:55:44.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\temp
+22-Mar-2022 23:55:44.221 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+22-Mar-2022 23:55:44.221 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+22-Mar-2022 23:55:44.222 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+22-Mar-2022 23:55:44.233 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+22-Mar-2022 23:55:44.593 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Mar-2022 23:55:44.626 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [667] milliseconds
+22-Mar-2022 23:55:44.679 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Mar-2022 23:55:44.680 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.54]
+22-Mar-2022 23:55:44.691 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\axis]
+22-Mar-2022 23:55:45.488 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2022 23:55:45.974 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\axis] has finished in [1 282] ms
+22-Mar-2022 23:55:45.974 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\docs]
+22-Mar-2022 23:55:46.014 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\docs] has finished in [39] ms
+22-Mar-2022 23:55:46.014 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\examples]
+22-Mar-2022 23:55:46.409 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\examples] has finished in [395] ms
+22-Mar-2022 23:55:46.409 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\host-manager]
+22-Mar-2022 23:55:46.461 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\host-manager] has finished in [52] ms
+22-Mar-2022 23:55:46.462 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\manager]
+22-Mar-2022 23:55:46.512 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\manager] has finished in [50] ms
+22-Mar-2022 23:55:46.512 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\ROOT]
+22-Mar-2022 23:55:46.545 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Artyom\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\apache-tomcat-9.0.54\webapps\ROOT] has finished in [33] ms
+22-Mar-2022 23:55:46.550 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Mar-2022 23:55:46.616 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1989] milliseconds

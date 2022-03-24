@@ -1,0 +1,9 @@
+Java HotSpot(TM) 64-Bit Server VM (25.261-b12) for windows-amd64 JRE (1.8.0_261-b12), built on Jun 18 2020 06:56:32 by "" with unknown MS VC++:1916
+Memory: 4k page, physical 8370292k(2464096k free), swap 11383152k(1448904k free)
+CommandLine flags: -XX:CompressedClassSpaceSize=260046848 -XX:GCLogFileSize=3145728 -XX:InitialHeapSize=1073741824 -XX:MaxHeapSize=1073741824 -XX:MaxMetaspaceSize=268435456 -XX:MetaspaceSize=100663296 -XX:NumberOfGCLogFiles=5 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:-TraceClassUnloading -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseGCLogFileRotation -XX:-UseLargePagesIndividualAllocation -XX:+UseParallelGC 
+2022-03-24T04:17:33.722+0300: 1.792: [GC (GCLocker Initiated GC) [PSYoungGen: 262144K->20174K(305664K)] 262228K->20274K(1005056K), 0.0243231 secs] [Times: user=0.11 sys=0.00, real=0.03 secs] 
+2022-03-24T04:17:34.483+0300: 2.552: [GC (Allocation Failure) [PSYoungGen: 282318K->29934K(305664K)] 284642K->32274K(1005056K), 0.0389775 secs] [Times: user=0.11 sys=0.00, real=0.04 secs] 
+2022-03-24T04:17:35.867+0300: 3.936: [GC (Allocation Failure) [PSYoungGen: 292078K->43513K(305664K)] 294418K->51845K(1005056K), 0.0585678 secs] [Times: user=0.17 sys=0.02, real=0.06 secs] 
+2022-03-24T04:17:39.460+0300: 7.529: [GC (Allocation Failure) [PSYoungGen: 305657K->43518K(305664K)] 313989K->78433K(1005056K), 0.0854666 secs] [Times: user=0.25 sys=0.05, real=0.09 secs] 
+2022-03-24T04:17:39.756+0300: 7.825: [GC (Metadata GC Threshold) [PSYoungGen: 93309K->41320K(303616K)] 128224K->76244K(1003008K), 0.0537320 secs] [Times: user=0.20 sys=0.02, real=0.05 secs] 
+2022-03-24T04:17:39.810+0300: 7.879: [Full GC (Metadata GC Threshold) [PSYoungGen: 41320K->0K(303616K)] [ParOldGen: 34923K->41506K(699392K)] 76244K->41506K(1003008K), [Metaspace: 88089K->88043K(1132544K)], 0.2122483 secs] [Times: user=0.77 sys=0.00, real=0.21 secs] 

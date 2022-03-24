@@ -1,0 +1,3 @@
+27-Oct-2021 13:12:06.150 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+27-Oct-2021 13:12:06.150 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+27-Oct-2021 13:12:06.150 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@13fd4e97')
